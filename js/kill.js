@@ -18,7 +18,7 @@ $(function() {
     }
     window.setInterval(doInverseSpinZeroPitch, 250);
     var tKillNames = ["Vlad1kS"];
-    var ctKillNames = ["R8", "INDIGO", "ZamanWare", "RXCHEATS", "Midnight" , "Avira"];
+    var ctKillNames = ["KennyS", "shroud", "rain", "Skadoodle", "GuardiaN" , "olofmeister"];
     var weapons = ["ssg", "ak47", "deagle", "g3sg1"];
     var $killFeedContainer = $('.kill-feed');
     var $killFeedElement = $('.kill-feed > div').hide();
